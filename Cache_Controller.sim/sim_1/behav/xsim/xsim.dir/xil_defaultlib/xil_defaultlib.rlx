@@ -1,0 +1,10 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+D:/Xilinx/Controller/Cache_Controller/Cache_Controller.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,uvm,,,,,,
+D:/Xilinx/Controller/Cache_Controller/Cache_Controller.srcs/sim_1/imports/CC/Testbench.sv,1721697925,systemVerilog,,,,Testbench,,uvm,,,,,,
+D:/Xilinx/Controller/Cache_Controller/Cache_Controller.srcs/sources_1/imports/CC/Controller.sv,1721683369,systemVerilog,,D:/Xilinx/Controller/Cache_Controller/Cache_Controller.srcs/sources_1/imports/CC/L1_Memory.sv,,Controller,,uvm,,,,,,
+D:/Xilinx/Controller/Cache_Controller/Cache_Controller.srcs/sources_1/imports/CC/L1_Memory.sv,1721698064,systemVerilog,,D:/Xilinx/Controller/Cache_Controller/Cache_Controller.srcs/sources_1/imports/CC/L2_Memory.sv,,L1_Memory,,uvm,,,,,,
+D:/Xilinx/Controller/Cache_Controller/Cache_Controller.srcs/sources_1/imports/CC/L2_Memory.sv,1721683373,systemVerilog,,D:/Xilinx/Controller/Cache_Controller/Cache_Controller.srcs/sources_1/imports/CC/Main_Memory.sv,,L2_Memory,,uvm,,,,,,
+D:/Xilinx/Controller/Cache_Controller/Cache_Controller.srcs/sources_1/imports/CC/Main_Memory.sv,1721697086,systemVerilog,,D:/Xilinx/Controller/Cache_Controller/Cache_Controller.srcs/sim_1/imports/CC/Testbench.sv,,Main_Memory,,uvm,,,,,,
